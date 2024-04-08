@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Hola 👋! Soy Denise, una desarrolladora de software de España.</h2>
+<h2 align="center">Hola 👋! Soy Denise, una desarrolladora de software</h2>
 
 ###
 
