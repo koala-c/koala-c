@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center">Hola 👋! Soy Denise, una desarrolladora de software</h2>
+<h4 align="center">He trabajado en Danzai Software y actualmente en MyChefTool</h4>
 
 ###
 
